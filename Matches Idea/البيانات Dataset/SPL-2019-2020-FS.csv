@@ -1,0 +1,241 @@
+matchNo,Date,Time,Team1,Team2,Score1,Score2
+1,09.09.2020,20:35,Al-Adalah,Al-Ittihad FC,0,2
+2,09.09.2020,20:35,Damk,Al-Fateh,4,3
+3,09.09.2020,20:35,Al-Hazem,Al Wehda,0,2
+4,09.09.2020,20:35,Al-Faisaly,Abha,2,1
+5,09.09.2020,20:35,Al Ahli SC,Al-Raed,2,0
+6,09.09.2020,20:35,Al-Taawon,Al Feiha,1,0
+7,09.09.2020,20:35,Al-Hilal,Al-Shabab,2,1
+8,09.09.2020,20:35,Al-Nassr,Al-Ettifaq,3,2
+9,04.09.2020,20:35,Al-Ittihad FC,Al-Nassr,1,1
+10,04.09.2020,20:35,Al-Fateh,Al-Taawon,1,0
+11,04.09.2020,20:35,Al-Raed,Al-Faisaly,2,1
+12,04.09.2020,20:35,Al Wehda,Al-Hilal,1,3
+13,04.09.2020,20:35,Al-Shabab,Al-Hazem,1,0
+14,04.09.2020,20:35,Abha,Al Ahli SC,2,1
+15,04.09.2020,20:35,Al Feiha,Al-Adalah,2,0
+16,04.09.2020,20:35,Al-Ettifaq,Damk,0,2
+17,30.08.2020,20:40,Al Ahli SC,Al-Shabab,1,1
+18,30.08.2020,19:00,Al-Taawon,Al-Ettifaq,0,1
+19,30.08.2020,18:55,Al-Faisaly,Al Wehda,2,1
+20,30.08.2020,18:40,Al-Fateh,Al-Ittihad FC,1,1
+21,29.08.2020,20:40,Al-Nassr,Al Feiha,2,1
+22,29.08.2020,20:40,Al-Hilal,Al-Hazem,4,1
+23,29.08.2020,19:00,Damk,Abha,2,2
+24,29.08.2020,18:40,Al-Adalah,Al-Raed,1,1
+25,25.08.2020,20:50,Al-Nassr,Al-Adalah,6,1
+26,25.08.2020,19:20,Al Wehda,Al-Taawon,2,1
+27,25.08.2020,19:05,Damk,Al Ahli SC,2,1
+28,25.08.2020,19:00,Al-Hilal,Al-Faisaly,2,0
+29,24.08.2020,20:50,Al-Ittihad FC,Al Feiha,4,1
+30,24.08.2020,19:10,Al-Hazem,Al-Fateh,3,4
+31,24.08.2020,19:00,Al-Shabab,Abha,1,1
+32,24.08.2020,18:45,Al-Ettifaq,Al-Raed,4,0
+33,20.08.2020,20:55,Al Ahli SC,Al-Hilal,2,1
+34,20.08.2020,19:10,Al-Taawon,Al-Nassr,1,4
+35,20.08.2020,19:05,Al Feiha,Damk,0,0
+36,20.08.2020,18:50,Al-Adalah,Al Wehda,2,4
+37,19.08.2020,20:55,Al-Raed,Al-Shabab,2,1
+38,19.08.2020,19:10,Abha,Al-Hazem,0,2
+39,19.08.2020,19:05,Al-Faisaly,Al-Ittihad FC,1,1
+40,19.08.2020,18:50,Al-Fateh,Al-Ettifaq,1,1
+41,15.08.2020,20:50,Al-Nassr,Al Wehda,1,0
+42,15.08.2020,19:15,Al-Taawon,Damk,0,2
+43,15.08.2020,19:10,Al-Faisaly,Al Ahli SC,2,0
+44,15.08.2020,18:55,Al-Adalah,Al-Hilal,0,4
+45,14.08.2020,20:50,Al-Ittihad FC,Al-Ettifaq,1,0
+46,14.08.2020,19:15,Al-Raed,Al-Hazem,3,1
+47,14.08.2020,19:10,Al Feiha,Al-Shabab,1,1
+48,14.08.2020,18:55,Al-Fateh,Abha,2,1
+49,10.08.2020,21:00,Al-Hilal,Al-Fateh,2,1
+50,10.08.2020,19:20,Al-Hazem,Al-Adalah,1,2
+51,10.08.2020,19:15,Abha,Al-Nassr,0,2
+52,10.08.2020,19:05,Al-Shabab,Al-Taawon,1,0
+53,09.08.2020,21:00,Al-Ittihad FC,Al Ahli SC,1,2
+54,09.08.2020,19:30,Al Wehda,Al-Raed,0,0
+55,09.08.2020,19:15,Damk,Al-Faisaly,2,1
+56,09.08.2020,19:00,Al-Ettifaq,Al Feiha,3,2
+57,05.08.2020,21:00,Al-Nassr,Al-Hilal,1,4
+58,05.08.2020,20:30,Al-Adalah,Al-Ettifaq,0,1
+59,05.08.2020,19:30,Al Wehda,Al-Shabab,0,3
+60,04.08.2020,21:15,Al Ahli SC,Al-Hazem,4,2
+61,04.08.2020,20:45,Al-Faisaly,Al-Taawon,2,1
+62,04.08.2020,19:25,Al-Raed,Damk,3,0
+63,04.08.2020,19:15,Abha,Al-Ittihad FC,2,1
+64,04.08.2020,19:00,Al-Fateh,Al Feiha,2,0
+65,13.03.2020,18:50,Al-Hazem,Al-Faisaly,2,2
+66,12.03.2020,18:30,Al-Fateh,Al-Adalah,0,1
+67,11.03.2020,20:45,Al-Ittihad FC,Al Wehda,1,2
+68,11.03.2020,20:45,Al-Nassr,Al-Raed,4,1
+69,11.03.2020,18:50,Al-Taawon,Al Ahli SC,1,0
+70,11.03.2020,18:45,Al Feiha,Abha,0,2
+71,11.03.2020,18:25,Al-Ettifaq,Al-Shabab,1,0
+72,11.03.2020,16:10,Damk,Al-Hilal,1,1
+73,07.03.2020,20:40,Al-Hilal,Al-Ettifaq,1,0
+74,07.03.2020,18:40,Al-Faisaly,Al-Nassr,3,2
+75,07.03.2020,16:15,Abha,Al-Taawon,2,1
+76,06.03.2020,20:40,Al Ahli SC,Al Feiha,1,0
+77,06.03.2020,19:05,Al Wehda,Damk,3,2
+78,06.03.2020,16:05,Al-Raed,Al-Fateh,0,0
+79,05.03.2020,20:40,Al-Shabab,Al-Adalah,4,0
+80,05.03.2020,18:45,Al-Hazem,Al-Ittihad FC,1,1
+81,29.02.2020,20:40,Al-Ittihad FC,Al-Shabab,5,1
+82,29.02.2020,18:20,Al-Ettifaq,Abha,4,1
+83,29.02.2020,15:40,Al-Fateh,Al Wehda,3,2
+84,28.02.2020,20:10,Al Feiha,Al-Raed,3,1
+85,28.02.2020,18:20,Al-Adalah,Al-Faisaly,0,2
+86,28.02.2020,16:10,Damk,Al-Hazem,3,0
+87,27.02.2020,20:40,Al-Nassr,Al Ahli SC,2,2
+88,27.02.2020,18:40,Al-Taawon,Al-Hilal,0,1
+89,22.02.2020,20:30,Al-Hilal,Al-Ittihad FC,1,0
+90,22.02.2020,18:40,Al-Hazem,Al-Nassr,0,2
+91,22.02.2020,16:00,Al-Taawon,Al-Raed,1,1
+92,21.02.2020,20:30,Al Ahli SC,Al-Fateh,0,1
+93,21.02.2020,18:30,Al-Faisaly,Al-Ettifaq,1,2
+94,21.02.2020,16:10,Abha,Al-Adalah,2,2
+95,20.02.2020,20:30,Al Wehda,Al Feiha,0,2
+96,20.02.2020,15:50,Al-Shabab,Damk,3,2
+97,15.02.2020,18:10,Al-Fateh,Al-Faisaly,2,2
+98,15.02.2020,15:55,Al-Raed,Abha,2,1
+99,14.02.2020,20:25,Al Wehda,Al Ahli SC,2,0
+100,14.02.2020,18:25,Al-Shabab,Al-Nassr,2,4
+101,14.02.2020,15:30,Al-Adalah,Al-Taawon,0,0
+102,13.02.2020,18:30,Al Feiha,Al-Hilal,0,1
+103,13.02.2020,15:30,Al-Ettifaq,Al-Hazem,2,3
+104,10.02.2020,20:20,Al-Ittihad FC,Damk,1,2
+105,07.02.2020,20:20,Al-Faisaly,Al-Shabab,2,1
+106,07.02.2020,18:30,Al-Hazem,Al Feiha,4,2
+107,07.02.2020,16:00,Abha,Al Wehda,1,4
+108,06.02.2020,20:20,Al Ahli SC,Al-Ettifaq,3,2
+109,06.02.2020,18:20,Al-Nassr,Al-Fateh,1,1
+110,05.02.2020,20:20,Al-Hilal,Al-Raed,3,1
+111,05.02.2020,18:25,Al-Taawon,Al-Ittihad FC,1,2
+112,05.02.2020,16:00,Damk,Al-Adalah,1,1
+113,01.02.2020,20:15,Al Feiha,Al-Faisaly,2,1
+114,01.02.2020,18:15,Al-Shabab,Al-Fateh,2,1
+115,01.02.2020,15:25,Al-Adalah,Al Ahli SC,1,1
+116,31.01.2020,20:15,Al-Raed,Al-Ittihad FC,1,1
+117,31.01.2020,18:25,Al-Hazem,Al-Taawon,0,0
+118,31.01.2020,16:00,Abha,Al-Hilal,1,2
+119,30.01.2020,18:00,Al-Ettifaq,Al Wehda,3,1
+120,30.01.2020,16:00,Damk,Al-Nassr,1,1
+121,25.01.2020,20:10,Al-Ittihad FC,Al-Adalah,0,0
+122,25.01.2020,18:10,Al-Shabab,Al-Hilal,0,0
+123,25.01.2020,15:55,Abha,Al-Faisaly,0,1
+124,24.01.2020,20:10,Al Wehda,Al-Hazem,5,1
+125,24.01.2020,17:55,Al-Ettifaq,Al-Nassr,0,1
+126,24.01.2020,15:35,Al Feiha,Al-Taawon,2,2
+127,23.01.2020,20:10,Al-Raed,Al Ahli SC,1,2
+128,23.01.2020,17:55,Al-Fateh,Damk,0,0
+129,20.01.2020,18:10,Al-Faisaly,Al-Hilal,2,2
+130,13.01.2020,20:05,Al Ahli SC,Abha,3,1
+131,11.01.2020,20:05,Al-Hilal,Al Wehda,3,1
+132,11.01.2020,18:05,Al-Faisaly,Al-Raed,0,1
+133,11.01.2020,15:50,Damk,Al-Ettifaq,2,2
+134,10.01.2020,20:05,Al-Nassr,Al-Ittihad FC,1,1
+135,10.01.2020,18:05,Al-Taawon,Al-Fateh,2,1
+136,10.01.2020,15:35,Al-Hazem,Al-Shabab,0,1
+137,09.01.2020,17:45,Al-Adalah,Al Feiha,1,1
+138,07.01.2020,20:00,Al-Hilal,Al Ahli SC,3,1
+139,30.12.2019,17:55,Al-Hilal,Al-Adalah,7,0
+140,28.12.2019,19:50,Al-Ittihad FC,Al-Fateh,1,1
+141,28.12.2019,17:50,Al-Shabab,Al Ahli SC,1,0
+142,28.12.2019,17:35,Al-Ettifaq,Al-Taawon,1,0
+143,28.12.2019,15:40,Abha,Damk,3,2
+144,28.12.2019,15:20,Al Feiha,Al-Nassr,1,4
+145,27.12.2019,19:50,Al Wehda,Al-Faisaly,1,0
+146,26.12.2019,19:50,Al-Hazem,Al-Hilal,1,1
+147,26.12.2019,17:55,Al-Raed,Al-Adalah,1,0
+148,21.12.2019,15:20,Al-Raed,Al-Ettifaq,3,2
+149,20.12.2019,17:35,Al-Fateh,Al-Hazem,2,1
+150,19.12.2019,19:50,Al Ahli SC,Damk,5,1
+151,19.12.2019,17:55,Al-Taawon,Al Wehda,2,1
+152,19.12.2019,17:35,Al-Adalah,Al-Nassr,0,3
+153,19.12.2019,15:40,Abha,Al-Shabab,2,0
+154,19.12.2019,15:15,Al Feiha,Al-Ittihad FC,4,1
+155,14.12.2019,19:45,Al-Ittihad FC,Al-Faisaly,1,2
+156,14.12.2019,15:35,Damk,Al Feiha,2,1
+157,13.12.2019,19:45,Al-Nassr,Al-Taawon,2,1
+158,13.12.2019,17:30,Al-Ettifaq,Al-Fateh,1,0
+159,12.12.2019,19:45,Al Wehda,Al-Adalah,2,0
+160,12.12.2019,17:45,Al-Shabab,Al-Raed,3,4
+161,12.12.2019,15:20,Al-Hazem,Abha,2,3
+162,24.11.2019,18:20,Al Wehda,Al-Nassr,1,0
+163,24.11.2019,17:30,Al-Ettifaq,Al-Ittihad FC,1,2
+164,23.11.2019,19:40,Al Ahli SC,Al-Faisaly,3,1
+165,23.11.2019,15:30,Damk,Al-Taawon,1,2
+166,22.11.2019,19:40,Al-Shabab,Al Feiha,0,1
+167,22.11.2019,17:55,Al-Hazem,Al-Raed,2,3
+168,22.11.2019,15:30,Abha,Al-Fateh,3,1
+169,06.11.2019,19:55,Al-Nassr,Al-Faisaly,2,0
+170,06.11.2019,18:00,Al-Raed,Al-Taawon,0,3
+171,02.11.2019,19:50,Al-Nassr,Abha,4,0
+172,02.11.2019,18:00,Al-Taawon,Al-Shabab,3,1
+173,02.11.2019,17:40,Al-Adalah,Al-Hazem,2,2
+174,01.11.2019,18:00,Al-Raed,Al Wehda,3,2
+175,01.11.2019,17:55,Al-Faisaly,Damk,2,0
+176,31.10.2019,19:50,Al-Fateh,Al-Hilal,3,3
+177,31.10.2019,19:50,Al Ahli SC,Al-Ittihad FC,2,1
+178,31.10.2019,18:00,Al Feiha,Al-Ettifaq,1,1
+179,27.10.2019,19:55,Al-Hilal,Al-Nassr,1,2
+180,27.10.2019,18:25,Al-Ittihad FC,Abha,1,2
+181,26.10.2019,18:10,Al-Hazem,Al Ahli SC,2,1
+182,26.10.2019,18:05,Al-Taawon,Al-Faisaly,2,1
+183,25.10.2019,18:20,Damk,Al-Raed,0,1
+184,25.10.2019,18:00,Al Feiha,Al-Fateh,3,1
+185,24.10.2019,19:55,Al-Shabab,Al Wehda,2,0
+186,24.10.2019,17:45,Al-Ettifaq,Al-Adalah,1,0
+187,20.10.2019,20:00,Al-Faisaly,Al-Hazem,1,0
+188,20.10.2019,18:25,Abha,Al Feiha,1,1
+189,19.10.2019,20:00,Al Wehda,Al-Ittihad FC,1,0
+190,19.10.2019,18:10,Al-Raed,Al-Nassr,0,2
+191,19.10.2019,18:05,Al-Shabab,Al-Ettifaq,2,1
+192,18.10.2019,20:00,Al Ahli SC,Al-Taawon,3,1
+193,18.10.2019,18:05,Al-Hilal,Damk,3,0
+194,18.10.2019,17:50,Al-Adalah,Al-Fateh,3,5
+195,05.10.2019,20:10,Al-Taawon,Abha,1,0
+196,05.10.2019,18:20,Al Feiha,Al Ahli SC,0,3
+197,05.10.2019,18:05,Al-Adalah,Al-Shabab,0,1
+198,05.10.2019,18:00,Al-Ettifaq,Al-Hilal,1,4
+199,04.10.2019,20:10,Al-Ittihad FC,Al-Hazem,1,2
+200,04.10.2019,18:05,Al-Fateh,Al-Raed,2,2
+201,03.10.2019,18:35,Damk,Al Wehda,0,1
+202,01.10.2019,20:10,Al-Ittihad FC,Al-Taawon,3,1
+203,28.09.2019,20:15,Al-Raed,Al Feiha,2,0
+204,28.09.2019,18:35,Al-Hazem,Damk,4,0
+205,28.09.2019,18:30,Al-Faisaly,Al-Adalah,3,1
+206,27.09.2019,20:15,Al Wehda,Al-Fateh,2,0
+207,27.09.2019,20:15,Al Ahli SC,Al-Nassr,0,0
+208,27.09.2019,18:25,Al-Shabab,Al-Ittihad FC,1,2
+209,26.09.2019,20:15,Al-Hilal,Al-Taawon,2,1
+210,26.09.2019,18:45,Abha,Al-Ettifaq,1,0
+211,21.09.2019,20:20,Al-Ittihad FC,Al-Hilal,1,3
+212,21.09.2019,18:20,Al-Fateh,Al Ahli SC,0,2
+213,21.09.2019,18:15,Al-Ettifaq,Al-Faisaly,0,1
+214,20.09.2019,20:20,Al-Nassr,Al-Hazem,0,1
+215,20.09.2019,18:35,Al Feiha,Al Wehda,0,1
+216,20.09.2019,18:20,Al-Adalah,Abha,2,1
+217,19.09.2019,18:50,Damk,Al-Shabab,1,1
+218,15.09.2019,20:10,Al-Faisaly,Al-Fateh,3,2
+219,15.09.2019,18:50,Al-Hazem,Al-Ettifaq,0,6
+220,14.09.2019,20:35,Al Ahli SC,Al Wehda,1,2
+221,14.09.2019,18:50,Abha,Al-Raed,1,1
+222,14.09.2019,18:40,Al-Hilal,Al Feiha,1,1
+223,13.09.2019,20:35,Al-Nassr,Al-Shabab,0,0
+224,13.09.2019,18:50,Al-Taawon,Al-Adalah,3,2
+225,13.09.2019,18:50,Damk,Al-Ittihad FC,2,1
+226,31.08.2019,19:05,Al-Raed,Al-Hilal,0,5
+227,31.08.2019,18:40,Al-Ettifaq,Al Ahli SC,1,2
+228,30.08.2019,20:40,Al Wehda,Abha,1,2
+229,30.08.2019,20:40,Al-Fateh,Al-Nassr,0,1
+230,30.08.2019,18:55,Al-Shabab,Al-Faisaly,0,0
+231,29.08.2019,20:20,Al Feiha,Al-Hazem,2,1
+232,29.08.2019,18:45,Al-Adalah,Damk,4,0
+233,24.08.2019,20:50,Al Wehda,Al-Ettifaq,0,2
+234,24.08.2019,19:05,Al-Faisaly,Al Feiha,0,0
+235,24.08.2019,18:50,Al-Fateh,Al-Shabab,1,2
+236,23.08.2019,20:50,Al-Ittihad FC,Al-Raed,3,1
+237,23.08.2019,19:10,Al-Taawon,Al-Hazem,1,1
+238,23.08.2019,19:00,Al-Hilal,Abha,4,2
+239,22.08.2019,20:50,Al Ahli SC,Al-Adalah,1,1
+240,22.08.2019,19:00,Al-Nassr,Damk,2,0

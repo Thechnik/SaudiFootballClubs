@@ -1,0 +1,176 @@
+{
+  "info": [
+    {
+      "rank": "1",
+      "team": "الاتحاد",
+      "games_played": "",
+      "wins": "",
+      "draws": "",
+      "losses": "",
+      "goals_for": "",
+      "goals_against": "",
+      "goal_difference": "",
+      "points": "",
+      "notes": "بطل المسابقة"
+    }
+  ],
+  "teams": [
+    {
+      "rank": 1,
+      "team": "الهلال",
+      "games_played": 22,
+      "wins": 17,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 38,
+      "goals_against": 15,
+      "goal_difference": 23,
+      "points": 53,
+      "notes": "Champion"
+    },
+    {
+      "rank": 2,
+      "team": "الاتحاد",
+      "games_played": 22,
+      "wins": 15,
+      "draws": 3,
+      "losses": 4,
+      "goals_for": 52,
+      "goals_against": 25,
+      "goal_difference": 27,
+      "points": 48,
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "team": "الوحدة",
+      "games_played": 22,
+      "wins": 14,
+      "draws": 5,
+      "losses": 3,
+      "goals_for": 41,
+      "goals_against": 25,
+      "goal_difference": 16,
+      "points": 47,
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "team": "الشباب",
+      "games_played": 22,
+      "wins": 14,
+      "draws": 2,
+      "losses": 6,
+      "goals_for": 45,
+      "goals_against": 27,
+      "goal_difference": 18,
+      "points": 44,
+      "notes": ""
+    },
+    {
+      "rank": 5,
+      "team": "الأهلي",
+      "games_played": 22,
+      "wins": 7,
+      "draws": 8,
+      "losses": 7,
+      "goals_for": 29,
+      "goals_against": 33,
+      "goal_difference": -4,
+      "points": 29,
+      "notes": ""
+    },
+    {
+      "rank": 6,
+      "team": "الاتفاق",
+      "games_played": 22,
+      "wins": 7,
+      "draws": 7,
+      "losses": 8,
+      "goals_for": 25,
+      "goals_against": 25,
+      "goal_difference": 0,
+      "points": 28,
+      "notes": ""
+    },
+    {
+      "rank": 7,
+      "team": "الطائي",
+      "games_played": 22,
+      "wins": 7,
+      "draws": 7,
+      "losses": 8,
+      "goals_for": 32,
+      "goals_against": 45,
+      "goal_difference": -13,
+      "points": 28,
+      "notes": ""
+    },
+    {
+      "rank": 8,
+      "team": "الحزم",
+      "games_played": 22,
+      "wins": 6,
+      "draws": 9,
+      "losses": 7,
+      "goals_for": 32,
+      "goals_against": 40,
+      "goal_difference": -8,
+      "points": 26,
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "team": "النصر",
+      "games_played": 22,
+      "wins": 6,
+      "draws": 9,
+      "losses": 7,
+      "goals_for": 28,
+      "goals_against": 38,
+      "goal_difference": -10,
+      "points": 25,
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "team": "القادسية",
+      "games_played": 22,
+      "wins": 6,
+      "draws": 9,
+      "losses": 7,
+      "goals_for": 27,
+      "goals_against": 37,
+      "goal_difference": -10,
+      "points": 25,
+      "notes": ""
+    },
+    {
+      "rank": 11,
+      "team": "الفيصلي",
+      "games_played": 22,
+      "wins": 5,
+      "draws": 5,
+      "losses": 12,
+      "goals_for": 19,
+      "goals_against": 40,
+      "goal_difference": -21,
+      "points": 20,
+      "notes": ""
+    },
+    {
+      "rank": 12,
+      "team": "الخليج",
+      "games_played": 22,
+      "wins": 5,
+      "draws": 3,
+      "losses": 14,
+      "goals_for": 18,
+      "goals_against": 39,
+      "goal_difference": -21,
+      "points": 18,
+      "notes": ""
+    }
+  ]
+  
+}

@@ -1,0 +1,108 @@
+{
+  "teams": [
+    {
+      "rank": "1",
+      "team": "الهلال",
+      "games_played": "14",
+      "wins": "8",
+      "draws": "4",
+      "losses": "2",
+      "goals_for": "22",
+      "goals_against": "13",
+      "goal_difference": "9",
+      "points": "20",
+      "notes": ""
+    },
+    {
+      "rank": "2",
+      "team": "النصر",
+      "games_played": "14",
+      "wins": "6",
+      "draws": "5",
+      "losses": "3",
+      "goals_for": "22",
+      "goals_against": "13",
+      "goal_difference": "9",
+      "points": "17",
+      "notes": ""
+    },
+    {
+      "rank": "3",
+      "team": "الأهلي",
+      "games_played": "14",
+      "wins": "7",
+      "draws": "2",
+      "losses": "5",
+      "goals_for": "13",
+      "goals_against": "9",
+      "goal_difference": "4",
+      "points": "16",
+      "notes": ""
+    },
+    {
+      "rank": "4",
+      "team": "الاتحاد",
+      "games_played": "14",
+      "wins": "6",
+      "draws": "4",
+      "losses": "4",
+      "goals_for": "19",
+      "goals_against": "19",
+      "goal_difference": "0",
+      "points": "16",
+      "notes": ""
+    },
+    {
+      "rank": "5",
+      "team": "الوحدة",
+      "games_played": "14",
+      "wins": "5",
+      "draws": "5",
+      "losses": "4",
+      "goals_for": "10",
+      "goals_against": "11",
+      "goal_difference": "-1",
+      "points": "15",
+      "notes": ""
+    },
+    {
+      "rank": "6",
+      "team": "القادسية",
+      "games_played": "14",
+      "wins": "5",
+      "draws": "3",
+      "losses": "6",
+      "goals_for": "14",
+      "goals_against": "17",
+      "goal_difference": "-3",
+      "points": "13",
+      "notes": ""
+    },
+    {
+      "rank": "7",
+      "team": "الشباب",
+      "games_played": "14",
+      "wins": "3",
+      "draws": "4",
+      "losses": "7",
+      "goals_for": "14",
+      "goals_against": "13",
+      "goal_difference": "1",
+      "points": "10",
+      "notes": ""
+    },
+    {
+      "rank": "8",
+      "team": "الرياض",
+      "games_played": "14",
+      "wins": "0",
+      "draws": "5",
+      "losses": "9",
+      "goals_for": "3",
+      "goals_against": "22",
+      "goal_difference": "-19",
+      "points": "5",
+      "notes": ""
+    }
+  ]
+}

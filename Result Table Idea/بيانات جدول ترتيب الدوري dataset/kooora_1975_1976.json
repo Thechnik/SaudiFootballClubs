@@ -1,0 +1,108 @@
+{
+  "teams": [
+    {
+      "rank": "1",
+      "team": "الهلال",
+      "games_played": "4",
+      "wins": "3",
+      "draws": "1",
+      "losses": "0",
+      "goals_for": "12",
+      "goals_against": "3",
+      "goal_difference": "9",
+      "points": "12",
+      "notes": ""
+    },
+    {
+      "rank": "2",
+      "team": "الأهلي",
+      "games_played": "4",
+      "wins": "2",
+      "draws": "2",
+      "losses": "0",
+      "goals_for": "7",
+      "goals_against": "2",
+      "goal_difference": "5",
+      "points": "8",
+      "notes": ""
+    },
+    {
+      "rank": "3",
+      "team": "النصر",
+      "games_played": "4",
+      "wins": "3",
+      "draws": "0",
+      "losses": "1",
+      "goals_for": "7",
+      "goals_against": "3",
+      "goal_difference": "4",
+      "points": "9",
+      "notes": ""
+    },
+    {
+      "rank": "4",
+      "team": "القادسية",
+      "games_played": "4",
+      "wins": "1",
+      "draws": "2",
+      "losses": "1",
+      "goals_for": "6",
+      "goals_against": "6",
+      "goal_difference": "0",
+      "points": "4",
+      "notes": ""
+    },
+    {
+      "rank": "5",
+      "team": "الاتحاد",
+      "games_played": "4",
+      "wins": "1",
+      "draws": "2",
+      "losses": "1",
+      "goals_for": "3",
+      "goals_against": "3",
+      "goal_difference": "0",
+      "points": "4",
+      "notes": ""
+    },
+    {
+      "rank": "6",
+      "team": "الشباب",
+      "games_played": "4",
+      "wins": "0",
+      "draws": "3",
+      "losses": "1",
+      "goals_for": "3",
+      "goals_against": "5",
+      "goal_difference": "-2",
+      "points": "3",
+      "notes": ""
+    },
+    {
+      "rank": "7",
+      "team": "الوحدة",
+      "games_played": "4",
+      "wins": "0",
+      "draws": "2",
+      "losses": "2",
+      "goals_for": "2",
+      "goals_against": "8",
+      "goal_difference": "-6",
+      "points": "2",
+      "notes": ""
+    },
+    {
+      "rank": "8",
+      "team": "الرياض",
+      "games_played": "4",
+      "wins": "0",
+      "draws": "0",
+      "losses": "4",
+      "goals_for": "2",
+      "goals_against": "12",
+      "goal_difference": "-10",
+      "points": "0",
+      "notes": ""
+    }
+  ]
+}
