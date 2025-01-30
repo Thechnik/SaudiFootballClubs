@@ -3,7 +3,7 @@ library(tidyverse)
 library(factoextra)
 
 # Load data
-data <- jsonlite::fromJSON("C:\\Users\\aalhm\\OneDrive\\Desktop\\get_data\\tidy_saudi_league.json")
+data <- jsonlite::fromJSON("C:\\Users\\Thech\\OneDrive\\الماجستير\\S2\\Data Analytics نال 6114 تحليل البيانات\\Assignments and Projects\\Project\\Result Table Idea\\combined_data.json")
 
 # Convert necessary columns to numeric
 data <- data %>%
