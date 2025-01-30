@@ -4,14 +4,13 @@
 library(dplyr)        # For data manipulation
 library(tidyr)        # For data cleaning
 library(randomForest) # For Random Forest model
-library(nnet)         # For multinomial logistic regression
 library(caret)        # For model evaluation
 library(lubridate)    # For flexible date handling
 
 # ------------------------------------------------------------
 # 2) Specify the folder path containing CSV files
 # ------------------------------------------------------------
-folder_path <- "C:/Users/Thech/OneDrive/الماجستير/S2/Data Analytics نال 6114 تحليل البيانات/Assignments and Projects/Project/Code"
+folder_path <- "C:/Users/Thech/OneDrive/الماجستير/S2/Data Analytics نال 6114 تحليل البيانات/Assignments and Projects/Project/Match prediction"
 
 # ------------------------------------------------------------
 # 3) List all CSV files
@@ -138,36 +137,34 @@ conf_matrix_rf <- confusionMatrix(rf_predictions, test_data$result)
 print(conf_matrix_rf)
 
 # ------------------------------------------------------------
-# 13) Train Multinomial Logistic Regression model
-# ------------------------------------------------------------
-log_reg_model <- multinom(
-  result ~ goal_diff,
-  data = train_data
-)
-
-# Predict on the test set
-log_reg_predictions <- predict(log_reg_model, test_data)
-conf_matrix_log_reg <- confusionMatrix(log_reg_predictions, test_data$result)
-print(conf_matrix_log_reg)
-
-# ------------------------------------------------------------
-# 14) Define a function to predict the match outcome between two teams
+# 13) Define a function to predict the match outcome between two teams
 # ------------------------------------------------------------
 predict_match <- function(team1, team2) {
-  # Check if teams exist in the dataset
   if (!(team1 %in% unique(data$Team1)) || !(team2 %in% unique(data$Team2))) {
     stop("One or both team names are not valid.")
   }
   
-  # Prepare input data for prediction
+  team1_stats <- data.frame(avg_score = mean(data$Score1[data$Team1 == team1], na.rm = TRUE))
+  team2_stats <- data.frame(avg_score = mean(data$Score2[data$Team2 == team2], na.rm = TRUE))
+  
   input_data <- data.frame(
     goal_diff = abs(team1_stats$avg_score - team2_stats$avg_score)
   )
   
   # Predict using Random Forest
   rf_result <- predict(rf_model, input_data)
-  # Predict using Multinomial Logistic Regression
-  log_reg_result <- predict(log_reg_model, input_data)
   
-  return(list(Random_Forest = rf_result, Logistic_Regression = log_reg_result))
+  if (rf_result == "Win") {
+    return(paste(team1, "is predicted to beat", team2))
+  } else if (rf_result == "Loss") {
+    return(paste(team1, "is predicted to lose to", team2))
+  } else {
+    return(paste(team1, "and", team2, "are predicted to draw"))
+  }
 }
+
+# ------------------------------------------------------------
+# 14) Call predict function
+# ------------------------------------------------------------
+# Predict
+predict_match("Al-Nassr", "Al-Raed")
