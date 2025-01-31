@@ -2,30 +2,39 @@
 By analyzing multi-season data, this project uncovers performance patterns and data-driven strategies for Saudi clubs.
 
 ### Datasets
-Football (Soccer) data for Saudi Professional League Since 2000.
-- All files are .csv
-- File name meaning (e.g. SPL-YEAR-YEAR-DATASOURCE )
-- Each file will have the following columns:
-| MatchNo | Date | Time | Team1 | Team2 | Score1 | Score2 | Note |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|1 | 01.01.2000 | 20:00 | Al-Hilal | Al-Nassr | 2 | 2 | Semi-final |
-- Team1 is always Home team.
-- Team2 is always Away team.
-- Score1 is Team1 score.
-- Score2 is Team2 score.
-- Note if the game is special, e.g. Semi-final or Final.
-Please contact regarding the data [@alioh](https://twitter.com/alioh)
 
-### Code
-## Chosen Algorithm and Rationale​
-The Random Forest algorithm was chosen for its robustness, ability to handle categorical and numerical features, and effectiveness in classification tasks. It provides insights into feature importance and performs well on complex datasets like football match records.​
-## Model Training, Tuning, and Evaluation​
-# Training:
-The dataset was split into 80% training and 20% testing sets. The model was trained using team statistics (e.g., average goals, win rates) as predictors and match outcomes (Win, Draw, Loss) as the target.​
-# Tuning:
-Default hyperparameters, such as 500 trees, were used, ensuring a balance between performance and computational efficiency.​
-# Evaluation:
-The model was evaluated using the testing set, measuring accuracy, precision, recall, and F1-score to assess classification performance.​
-## Model Performance​
-The model achieved strong performance metrics, with accuracy exceeding [insert percentage, e.g., 85%].​
-Validation confirmed the model's reliability, making it suitable for predicting future match outcomes and analyzing team dynamics.​
+Please contact regarding the data 
+
+### Saudi Football Clubs Performance Analysis
+## Overview
+This project analyzes the performance of Saudi football clubs in the Saudi Professional League (SPL) using data analytics, machine learning, and text mining. It explores match trends, league standings, and media coverage to uncover key insights.
+
+## Datasets
+Match Data (2000–2024): Records of SPL matches, including teams, scores, and dates. some of the data got it from (https://twitter.com/alioh) github profile
+League Table Data (1957–2024): Season rankings, match outcomes, and team performance.
+News Articles Data: Textual analysis of articles related to Saudi football clubs.
+
+## Methods
+# Data Wrangling:
+Cleaning, standardization, and handling missing values.
+# Exploratory Data Analysis (EDA):
+Statistical summaries and visualizations.
+# Statistical Analysis:
+Correlation, linear regression, and logistic regression.
+# Machine Learning:
+Random Forest for match outcome prediction.
+K-Means Clustering to classify team performance.
+LDA Topic Modeling for news article analysis.
+
+## Key Findings
+Al-Hilal leads in wins and championships.
+Goals scored strongly correlate with team success.
+Random Forest achieved 67.44% accuracy in predicting match outcomes.
+Clustering identified distinct performance groups among teams.
+Text mining revealed dominant themes in Saudi football news.
+
+## Repository Contents
+Data processing scripts
+Machine learning models
+Visualization notebooks
+Text mining scripts
