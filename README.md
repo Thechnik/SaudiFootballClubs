@@ -1,10 +1,3 @@
-# SaudiFootballClubsProject
-By analyzing multi-season data, this project uncovers performance patterns and data-driven strategies for Saudi clubs.
-
-### Datasets
-
-Please contact regarding the data 
-
 ### Saudi Football Clubs Performance Analysis
 ## Overview
 This project analyzes the performance of Saudi football clubs in the Saudi Professional League (SPL) using data analytics, machine learning, and text mining. It explores match trends, league standings, and media coverage to uncover key insights.
