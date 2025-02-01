@@ -51,7 +51,7 @@ dtm <- dtm[rowSums(as.matrix(dtm)) > 0, ]
 # Check if DTM is not empty
 if (nrow(dtm) > 0 && ncol(dtm) > 0) {
   # Set the number of topics
-  num_topics <- 3
+  num_topics <- 10
   
   # Apply LDA (Latent Dirichlet Allocation)
   lda_model <- LDA(dtm, k = num_topics, control = list(seed = 1234))
